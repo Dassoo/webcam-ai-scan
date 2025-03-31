@@ -143,7 +143,7 @@ export default function Home() {
             </div>
             <div className="p-6">
               <pre className="text-gray-300 text-sm whitespace-pre-wrap break-words overflow-auto h-[400px]">
-                {ocrResult || "Apri la fotocamera e avvia una scansione per iniziare."}
+                {ocrResult || "Open the camera using the blue button on the bottom left and start the scan with the red button to begin."}
               </pre>
             </div>
           </div>

@@ -12,7 +12,7 @@ This is a simple Frame Understanding web app using Mistral AI through your camer
 | **Category**       | **Tools**                                                                 |
 |---------------------|--------------------------------------------------------------------------|
 | **Frontend**        | Next.js, TypeScript, TailwindCSS                                          |
-| **Backend**         | FastAPI                                                                   |
+| **Backend**         | FastAPI, MistralAI                                                        |
 | **Data**            | Webcam Frames                                                            |
 | **Deployment**      | Vercel, Render                                                          |
 
