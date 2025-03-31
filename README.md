@@ -5,6 +5,7 @@
 ## 📊 Overview  
 
 This is a simple Frame Understanding web app using Mistral AI through your camera/webcam.
+Note: It may not work properly at first since the backend is on a free plan, needs some time to load.
 
 ---
 
