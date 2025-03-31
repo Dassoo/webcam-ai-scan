@@ -66,7 +66,7 @@ export default function Home() {
     formData.append('image', blob, 'frame.jpg');
 
     try {
-      const response = await fetch('http://localhost:8000/scan', {
+      const response = await fetch('https://webcam-ai-scan.onrender.com/scan', {
         method: 'POST',
         body: formData
       });
